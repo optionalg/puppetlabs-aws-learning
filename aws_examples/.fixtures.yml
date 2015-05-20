@@ -1,0 +1,5 @@
+fixtures:
+  symlinks:
+    aws_examples: "#{source_dir}"
+  forge_modules:
+    aws: "puppetlabs/aws"

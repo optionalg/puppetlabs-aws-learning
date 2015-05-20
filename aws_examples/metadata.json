@@ -1,0 +1,15 @@
+{
+  "name": "pjfoley-aws_examples",
+  "version": "0.1.0",
+  "author": "pjfoley",
+  "summary": "Puppet AWS module examples",
+  "license": "Apache-2.0",
+  "source": "github.com/pjfoley/puppetlabs-aws-learning",
+  "project_page": "https://github.com/pjfoley/puppetlabs-aws-learning",
+  "issues_url": "https://github.com/pjfoley/puppetlabs-aws-learning/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"},
+    {"name":"puppetlabs-aws","version_requirement":">= 1.0.0"}
+  ]
+}
+

@@ -1,0 +1,5 @@
+# generated fixtures
+aws_examples/spec/fixtures
+
+Gemfile.lock
+Gemfile.local
